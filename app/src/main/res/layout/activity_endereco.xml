@@ -16,7 +16,9 @@
            android:id="@+id/idCEP"
            android:layout_width="0dp"
            android:layout_weight="1"
-           android:layout_height="wrap_content"/>
+           android:layout_height="wrap_content"
+           android:hint="Digite o cep"/>
+
        <Button
            android:id="@+id/btPesquisar"
            android:text="Pesquisar"
